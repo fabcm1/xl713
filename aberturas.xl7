@@ -1,0 +1,831 @@
+e4 # 5
+d4 # 4
+c4 # 2
+Nf3 # 1
+e4 e5 # 5
+e4 c5 # 3
+e4 c6 # 2
+e4 e5 f4 # 2
+e4 e5 Nf3 # 4
+e4 e5 Bc4 # 1
+e4 e5 Nc3 # 1
+e4 e5 d4 # 1
+e4 e5 f4 exf4 # 3
+e4 e5 f4 d5 # 2
+e4 e5 f4 exf4 Nf3 # 3
+e4 e5 f4 exf4 Bc4 # 1
+e4 e5 f4 exf4 Nf3 g5 # 1
+e4 e5 f4 exf4 Nf3 Nf6 # 3
+e4 e5 f4 exf4 Nf3 d6 # 3
+e4 e5 f4 exf4 Nf3 g5 Bc4 # 3
+e4 e5 f4 exf4 Nf3 g5 Bc4 g4 # 1
+e4 e5 f4 exf4 Nf3 g5 Bc4 g4 O-O # 3
+e4 e5 f4 exf4 Nf3 g5 Bc4 g4 O-O gxf3 # 1
+e4 e5 f4 exf4 Nf3 g5 Bc4 g4 O-O gxf3 Qxf3 # 3
+e4 e5 f4 exf4 Nf3 Nf6 e5 # 1
+e4 e5 f4 exf4 Nf3 Nf6 e5 Nh5 # 3
+e4 e5 f4 exf4 Nf3 Nf6 e5 Nh5 d4 # 1
+e4 e5 f4 exf4 Nf3 Nf6 e5 Nh5 d4 d5 # 3
+e4 e5 f4 exf4 Nf3 d6 Bc4 # 1
+e4 e5 f4 exf4 Nf3 d6 Bc4 h6 # 3
+e4 e5 f4 exf4 Nf3 d6 Bc4 h6 d4 # 1
+e4 e5 f4 exf4 Nf3 d6 Bc4 h6 d4 g5 # 3
+e4 e5 f4 exf4 Bc4 Nf6 # 3
+e4 e5 f4 exf4 Bc4 c6 # 3
+e4 e5 f4 exf4 Bc4 Nf6 Nc3 # 3
+e4 e5 f4 exf4 Bc4 Nf6 Nc3 Bb4 # 3
+e4 e5 f4 exf4 Bc4 Nf6 Nc3 Bb4 e5 # 1
+e4 e5 f4 exf4 Bc4 Nf6 Nc3 Bb4 e5 d5 # 3
+e4 e5 f4 exf4 Bc4 c6 Nc3 # 1
+e4 e5 f4 exf4 Bc4 c6 Nc3 Nf6 # 3
+e4 e5 f4 exf4 Bc4 c6 Nc3 Nf6 Bb3 # 1
+e4 e5 f4 exf4 Bc4 c6 Nc3 Nf6 Bb3 d5 # 3
+e4 e5 f4 d5 exd5 # 3
+e4 e5 f4 d5 Nf3 # 1
+e4 e5 f4 d5 exd5 e4 # 3
+e4 e5 f4 d5 exd5 exf4 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 # 3
+e4 e5 f4 d5 exd5 e4 Bb5 # 3
+e4 e5 f4 d5 exd5 e4 d3 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 d3 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 Qe2 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 Bc4 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 d3 Bb4 # 1
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 d3 Bb4 dxe4 # 3
+e4 e5 f4 d5 exd5 e4 Nc3 Nf6 Bc4 Bc5 # 3
+e4 e5 f4 d5 exd5 e4 Bb5 c6 # 3
+e4 e5 f4 d5 exd5 e4 Bb5 c6 dxc6 # 3
+e4 e5 f4 d5 exd5 e4 Bb5 c6 dxc6 Nxc6 # 3
+e4 e5 f4 d5 exd5 e4 Bb5 c6 dxc6 bxc6 # 3
+e4 e5 f4 d5 exd5 e4 d3 Nf6 # 3
+e4 e5 f4 d5 exd5 e4 d3 Nf6 dxe4 # 3
+e4 e5 f4 d5 exd5 e4 d3 Nf6 Nd2 # 2
+e4 e5 f4 d5 exd5 exf4 Nf3 # 3
+e4 e5 f4 d5 exd5 exf4 Nf3 Nf6 # 3
+e4 e5 f4 d5 exd5 exf4 Nf3 Nf6 Bc4 # 3
+e4 e5 f4 d5 Nf3 dxe4 # 3
+e4 e5 f4 d5 Nf3 dxe4 Nxe5 # 3
+e4 e5 f4 d5 Nf3 dxe4 Nxe5 Bd6 # 3
+e4 e5 f4 d5 Nf3 dxe4 Nxe5 Nd7 # 3
+e4 e5 f4 d5 Nf3 dxe4 Nxe5 Bd6 d4 # 3
+e4 e5 f4 d5 Nf3 dxe4 Nxe5 Nd7 d4 # 1
+e4 e5 f4 d5 Nf3 dxe4 Nxe5 Nd7 d4 exd3 # 3
+e4 e5 Nf3 Nc6 # 3
+e4 e5 Nf3 Nf6 # 1
+e4 e5 Nf3 Nc6 Bb5 # 4
+e4 e5 Nf3 Nc6 Bc4 # 3
+e4 e5 Nf3 Nc6 d4 # 1
+e4 e5 Nf3 Nc6 c3 # 1
+e4 e5 Nf3 Nc6 Nc3 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 # 4
+e4 e5 Nf3 Nc6 Bb5 d6 # 1
+e4 e5 Nf3 Nc6 Bb5 Nd4 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 b5 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 d3 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 Qe2 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 Bxc6 # 2
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 d4 # 2
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 c3 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 O-O # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 Bxc6 bxc6 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 d4 b5 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 d4 b5 Bb3 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 c3 Bd7 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 c3 Bd7 O-O # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 O-O Bd7 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 O-O Be7 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 O-O Bd7 d4 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6 O-O Be7 Bxc6 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 b5 Bb3 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 b5 Bb3 Bb7 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 bxc6 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 bxc6 d4 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 bxc6 d4 exd4 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 O-O # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 d4 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 Nc3 # 1
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 O-O f6 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 O-O Qd6 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 d4 exd4 # 3
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 Nc3 Bg4 # 3
+e4 e5 Nf3 Nc6 Bb5 d6 d4 # 3
+e4 e5 Nf3 Nc6 Bb5 d6 d4 Bg4 # 1
+e4 e5 Nf3 Nc6 Bb5 Nd4 Nxd4 # 3
+e4 e5 Nf3 Nc6 Bb5 Nd4 Nxd4 exd4 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 # 5
+e4 e5 Nf3 Nc6 Bc4 Be7 # 1
+e4 e5 Nf3 Nc6 Bc4 d6 # 2
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 g3 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 b4 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 a6 # 2
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 Nbd2 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 O-O # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 a6 O-O # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 b4 Bb6 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 b4 Bb6 d3 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 g3 Nf6 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 g3 Nf6 d3 # 3
+e4 e5 Nf3 Nc6 Bc4 Bc5 g3 Nf6 d3 d6 # 1
+e4 e5 Nf3 Nc6 Bc4 Bc5 g3 Nf6 d3 d6 O-O # 3
+e4 e5 Nf3 Nc6 Bc4 Be7 d4 # 1
+e4 e5 Nf3 Nc6 Bc4 Be7 d4 d6 # 1
+e4 e5 Nf3 Nc6 Bc4 Be7 d4 d6 c3 # 1
+e4 e5 Nf3 Nc6 Bc4 Be7 d4 d6 c3 Nf6 # 3
+e4 e5 Nf3 Nc6 Bc4 d6 d3 # 1
+e4 e5 Nf3 Nc6 Bc4 d6 d3 Be7 # 3
+e4 e5 Nf3 Nc6 Bc4 d6 d3 Be7 h3 # 1
+e4 e5 Nf3 Nc6 Bc4 d6 d3 Be7 h3 Nf6 # 3
+e4 e5 Nf3 Nc6 Bc4 d6 d3 Be7 h3 Nf6 Nc3 # 1
+e4 e5 Nf3 Nc6 d4 exd4 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Bc4 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Nb3 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Nf5 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Be3 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Nb3 Be7 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Nb3 Bb6 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Nf5 Qf6 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Be3 Qf6 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 d6 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Bc4 Bc5 # 3
+e4 e5 Nf3 Nc6 d4 exd4 Bc4 Bc5 c3 # 1
+e4 e5 Nf3 Nc6 d4 exd4 Bc4 Bc5 c3 Nf6 # 3
+e4 e5 Nf3 Nc6 c3 Be7 # 3
+e4 e5 Nf3 Nc6 c3 d5 # 3
+e4 e5 Nf3 Nc6 c3 Be7 d4 # 1
+e4 e5 Nf3 Nc6 c3 Be7 d4 d6 # 3
+e4 e5 Nf3 Nc6 c3 Be7 d4 d6 Bb5 # 1
+e4 e5 Nf3 Nc6 c3 Be7 d4 d6 Bb5 exd4 # 3
+e4 e5 Nf3 Nc6 c3 d5 Qa4 # 1
+e4 e5 Nf3 Nc6 c3 d5 Qa4 dxe4 # 3
+e4 e5 Nf3 Nc6 c3 d5 Qa4 dxe4 Nxe5 # 1
+e4 e5 Nf3 Nc6 c3 d5 Qa4 dxe4 Nxe5 Qd5 # 3
+e4 e5 Nf3 Nc6 c3 d5 Qa4 dxe4 Nxe5 Qd5 Nxc6 # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 # 3
+e4 e5 Nf3 Nc6 Nc3 g6 # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 Bb5 # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 d4 # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 Bb5 Bb4 # 3
+e4 e5 Nf3 Nc6 Nc3 Nf6 Bb5 Bb4 O-O # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 Bb5 Bb4 O-O O-O # 3
+e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 # 3
+e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nd5 # 1
+e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Bb4 # 3
+e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nd5 Be7 # 3
+e4 e5 Nf3 Nc6 Nc3 g6 d4 # 1
+e4 e5 Nf3 Nc6 Nc3 g6 d4 exd4 # 3
+e4 e5 Nf3 Nc6 Nc3 g6 d4 exd4 Nxd4 # 1
+e4 e5 Nf3 Nc6 Nc3 g6 d4 exd4 Nxd4 Bg7 # 3
+e4 e5 Nf3 Nf6 d4 # 2
+e4 e5 Nf3 Nf6 Nxe5 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 # 3
+e4 e5 Nf3 Nf6 d4 exd4 # 1
+e4 e5 Nf3 Nf6 d4 Nxe4 dxe5 # 2
+e4 e5 Nf3 Nf6 d4 Nxe4 dxe5 d5 # 1
+e4 e5 Nf3 Nf6 d4 Nxe4 dxe5 d5 exd6 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 dxe5 # 1
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Nd7 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Bd6 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Nd7 Qe2 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Nd7 Nxd7 # 1
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Nd7 Nxd7 Bxd7 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Bd6 O-O # 1
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Bd6 O-O O-O # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 dxe5 Nc6 # 3
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 dxe5 Nc6 O-O # 1
+e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 dxe5 Nc6 O-O Be7 # 3
+e4 e5 Nf3 Nf6 d4 exd4 e5 # 1
+e4 e5 Nf3 Nf6 d4 exd4 e5 Ne4 # 3
+e4 e5 Nf3 Nf6 d4 exd4 e5 Ne4 Qxd4 # 1
+e4 e5 Nf3 Nf6 d4 exd4 e5 Ne4 Qxd4 d5 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 Qe2 # 1
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 Bd3 # 1
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 Be7 # 1
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 Be7 Bd3 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 Qe2 Qe7 # 3
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 Bd3 d5 # 3
+e4 e5 Bc4 Nf6 # 3
+e4 e5 Bc4 Nc6 # 2
+e4 e5 Bc4 Nf6 d4 # 1
+e4 e5 Bc4 Nf6 d3 # 1
+e4 e5 Bc4 Nf6 d4 exd4 # 3
+e4 e5 Bc4 Nf6 d4 exd4 Nf3 # 1
+e4 e5 Bc4 Nf6 d4 exd4 Nf3 Nxe4 # 3
+e4 e5 Bc4 Nf6 d4 exd4 Nf3 Nxe4 Qxd4 # 1
+e4 e5 Bc4 Nf6 d4 exd4 Nf3 Nxe4 Qxd4 Nf6 # 3
+e4 e5 Bc4 Nf6 d3 Nc6 # 3
+e4 e5 Bc4 Nf6 d3 Bc5 # 3
+e4 e5 Bc4 Nf6 d3 Nc6 Nf3 # 1
+e4 e5 Bc4 Nf6 d3 Nc6 Nf3 Bc5 # 3
+e4 e5 Bc4 Nf6 d3 Nc6 Nf3 Bc5 O-O # 1
+e4 e5 Bc4 Nf6 d3 Nc6 Nf3 Bc5 O-O a6 # 3
+e4 e5 Bc4 Nf6 d3 Bc5 Nf3 # 1
+e4 e5 Bc4 Nf6 d3 Bc5 Nf3 d6 # 3
+e4 e5 Bc4 Nf6 d3 Bc5 Nf3 d6 c3 # 1
+e4 e5 Bc4 Nf6 d3 Bc5 Nf3 d6 c3 Bb6 # 3
+e4 e5 Bc4 Nc6 Nf3 # 1
+e4 e5 Bc4 Nc6 Nf3 Bc5 # 3
+e4 e5 Bc4 Nc6 Nf3 Bc5 d3 # 1
+e4 e5 Bc4 Nc6 Nf3 Bc5 d3 Nf6 # 3
+e4 e5 Nc3 Bc5 # 2
+e4 e5 Nc3 Nf6 # 3
+e4 e5 Nc3 Bc5 Qg4 # 1
+e4 e5 Nc3 Bc5 Qg4 Nf6 # 3
+e4 e5 Nc3 Bc5 Qg4 Nf6 Qxg7 # 1
+e4 e5 Nc3 Bc5 Qg4 Nf6 Qxg7 Rg8 # 3
+e4 e5 Nc3 Nf6 g3 # 1
+e4 e5 Nc3 Nf6 f4 # 1
+e4 e5 Nc3 Nf6 Bc4 # 1
+e4 e5 Nc3 Nf6 g3 d5 # 3
+e4 e5 Nc3 Nf6 g3 d5 exd5 # 1
+e4 e5 Nc3 Nf6 g3 d5 exd5 Nxd5 # 3
+e4 e5 Nc3 Nf6 f4 d5 # 3
+e4 e5 Nc3 Nf6 f4 d5 fxe5 # 1
+e4 e5 Nc3 Nf6 f4 d5 fxe5 Nxe4 # 3
+e4 e5 Nc3 Nf6 Bc4 Nc6 # 3
+e4 e5 Nc3 Nf6 Bc4 Nc6 d3 # 1
+e4 e5 Nc3 Nf6 Bc4 Nc6 d3 Na5 # 3
+e4 e5 d4 exd4 # 3
+e4 e5 d4 exd4 Qxd4 # 1
+e4 e5 d4 exd4 Qxd4 Nc6 # 3
+e4 e5 d4 exd4 Qxd4 Nc6 Qe3 # 1
+e4 e5 d4 exd4 Qxd4 Nc6 Qe3 d6 # 2
+e4 e5 d4 exd4 Qxd4 Nc6 Qe3 Nf6 # 3
+e4 c5 Nf3 # 3
+e4 c5 Nc3 # 1
+e4 c5 Nf3 e6 # 3
+e4 c5 Nf3 Nc6 # 1
+e4 c5 Nf3 d6 # 1
+e4 c5 Nf3 e6 d4 # 3
+e4 c5 Nf3 e6 d4 cxd4 # 3
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 # 3
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 # 1
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 a6 # 2
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 # 3
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 # 3
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 a6 Bd3 # 3
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 a6 Nc3 # 1
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nb5 # 3
+e4 c5 Nf3 Nc6 d4 # 3
+e4 c5 Nf3 Nc6 Bb5 # 2
+e4 c5 Nf3 Nc6 d4 cxd4 # 3
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 # 3
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 # 3
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 # 3
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 # 3
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 Nb5 # 3
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 Nc3 # 3
+e4 c5 Nf3 Nc6 Bb5 g6 # 1
+e4 c5 Nf3 Nc6 Bb5 Qb6 # 1
+e4 c5 Nf3 Nc6 Bb5 a6 # 1
+e4 c5 Nf3 Nc6 Bb5 e6 # 1
+e4 c5 Nf3 Nc6 Bb5 g6 c3 # 1
+e4 c5 Nf3 Nc6 Bb5 g6 O-O # 3
+e4 c5 Nf3 Nc6 Bb5 g6 c3 Bg7 # 1
+e4 c5 Nf3 Nc6 Bb5 g6 O-O Bg7 # 1
+e4 c5 Nf3 Nc6 Bb5 g6 O-O Nf6 # 1
+e4 c5 Nf3 d6 d4 # 3
+e4 c5 Nf3 d6 d4 cxd4 # 3
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 # 3
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 # 3
+e4 c5 Nc3 Nc6 # 3
+e4 c5 Nc3 e6 # 2
+e4 c5 Nc3 Nc6 g3 # 3
+e4 c5 Nc3 Nc6 g3 g6 # 3
+e4 c5 Nc3 Nc6 g3 g6 Bg2 # 3
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 # 3
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 Nge2 # 3
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 d3 # 3
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 Nge2 e6 # 1
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 Nge2 d6 # 1
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 Nge2 Rb8 # 1
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 d3 e6 # 2
+e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 d3 d6 # 3
+e4 c5 Nc3 e6 Nf3 # 1
+e4 c5 Nc3 e6 Nf3 Nc6 # 3
+e4 c5 Nc3 e6 Nf3 Nc6 d4 # 1
+e4 c5 Nc3 e6 Nf3 Nc6 d4 cxd4 # 3
+e4 c6 d4 # 3
+e4 c6 Nc3 # 1
+e4 c6 d4 d5 # 3
+e4 c6 d4 d5 Nc3 # 1
+e4 c6 d4 d5 Nd2 # 3
+e4 c6 d4 d5 exd5 # 1
+e4 c6 d4 d5 e5 # 1
+e4 c6 d4 d5 Nc3 dxe4 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 # 2
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nf6 # 1
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 Nf3 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 Ng5 # 1
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 Bc4 # 1
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 Bd3 # 1
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 Nf3 Ngf6 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 # 3
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nf6 Nxf6 # 1
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nf6 Nxf6 exf6 # 3
+e4 c6 d4 d5 Nd2 dxe4 # 3
+e4 c6 d4 d5 Nd2 g6 # 1
+e4 c6 d4 d5 Nd2 dxe4 Nxe4 # 3
+e4 c6 d4 d5 Nd2 dxe4 Nxe4 Nd7 # 3
+e4 c6 d4 d5 Nd2 dxe4 Nxe4 Nd7 Bc4 # 3
+e4 c6 d4 d5 Nd2 dxe4 Nxe4 Nd7 Nf3 # 3
+e4 c6 d4 d5 Nd2 g6 c3 # 3
+e4 c6 d4 d5 Nd2 g6 c3 Bg7 # 1
+e4 c6 d4 d5 exd5 cxd5 # 3
+e4 c6 d4 d5 exd5 cxd5 c4 # 3
+e4 c6 d4 d5 exd5 cxd5 c4 Nf6 # 3
+e4 c6 d4 d5 exd5 cxd5 c4 Nf6 Nc3 # 3
+e4 c6 d4 d5 e5 Bf5 # 3
+e4 c6 d4 d5 e5 c5 # 1
+e4 c6 d4 d5 e5 Bf5 Nf3 # 1
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 # 3
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 # 3
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 a3 # 1
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 # 1
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 c5 # 3
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 a6 # 1
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Ne7 # 1
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 a3 Ne7 # 3
+e4 c6 d4 d5 e5 c5 c3 # 1
+e4 c6 d4 d5 e5 c5 dxc5 # 1
+e4 c6 d4 d5 e5 c5 c3 Nc6 # 3
+e4 c6 d4 d5 e5 c5 c3 Nc6 Na3 # 1
+e4 c6 d4 d5 e5 c5 c3 Nc6 Na3 cxd4 # 3
+e4 c6 d4 d5 e5 c5 dxc5 Nc6 # 3
+e4 c6 d4 d5 e5 c5 dxc5 Nc6 Bb5 # 1
+e4 c6 d4 d5 e5 c5 dxc5 Nc6 Bb5 e6 # 3
+e4 c6 Nc3 d5 # 3
+e4 c6 Nc3 d5 Nf3 # 3
+e4 c6 Nc3 d5 d3 # 1
+e4 c6 Nc3 d5 Nf3 Bg4 # 3
+e4 c6 Nc3 d5 Nf3 dxe4 # 1
+e4 c6 Nc3 d5 Nf3 Bg4 h3 # 3
+e4 c6 Nc3 d5 Nf3 Bg4 h3 Bxf3 # 3
+e4 c6 Nc3 d5 Nf3 Bg4 h3 Bxf3 Qxf3 # 3
+e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 # 3
+e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nf6 # 1
+e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nf6 Nxf6 # 3
+e4 c6 Nc3 d5 d3 e5 # 3
+e4 c6 Nc3 d5 d3 e5 Nf3 # 1
+e4 c6 Nc3 d5 d3 e5 Nf3 d4 # 3
+e4 c6 Nc3 d5 d3 e5 Nf3 d4 Ne2 # 1
+e4 c6 Nc3 d5 d3 e5 Nf3 d4 Ne2 f6 # 3
+d4 Nf6 # 4
+d4 d5 # 1
+d4 g6 # 1
+d4 c5 # 1
+d4 Nc6 # 1
+d4 Nf6 g3 # 1
+d4 Nf6 c4 # 3
+d4 Nf6 Nf3 # 1
+d4 Nf6 Bg5 # 1
+d4 Nf6 g3 d5 # 1
+d4 Nf6 g3 d5 Bg2 # 3
+d4 Nf6 c4 g6 # 1
+d4 Nf6 c4 e6 # 3
+d4 Nf6 c4 d6 # 1
+d4 Nf6 c4 c5 # 1
+d4 Nf6 c4 g6 Nc3 # 3
+d4 Nf6 c4 g6 Nf3 # 2
+d4 Nf6 c4 g6 g3 # 2
+d4 Nf6 c4 g6 Nc3 Bg7 # 3
+d4 Nf6 c4 g6 Nc3 d5 # 2
+d4 Nf6 c4 g6 Nc3 d6 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 Nf3 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 O-O # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 Nbd7 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 O-O Nge2 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 O-O Be3 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 O-O Nge2 e5 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 O-O Be3 c5 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 Nbd7 Nh3 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 e5 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be2 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be3 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be2 e5 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be3 e5 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 e5 Be2 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 O-O # 1
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 O-O Bg5 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 O-O Nf3 # 3
+d4 Nf6 c4 g6 Nc3 Bg7 Nf3 O-O # 3
+d4 Nf6 c4 g6 Nc3 Bg7 Nf3 O-O e3 # 1
+d4 Nf6 c4 g6 Nc3 Bg7 Nf3 O-O e3 d5 # 3
+d4 Nf6 c4 g6 Nc3 d5 cxd5 # 3
+d4 Nf6 c4 g6 Nc3 d5 Nf3 # 3
+d4 Nf6 c4 g6 Nc3 d5 Bf4 # 1
+d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 # 1
+d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 e4 # 3
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 # 3
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Bf4 # 1
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Qb3 # 3
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Bf4 c5 # 1
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Bf4 c5 dxc5 # 3
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Qb3 dxc4 # 1
+d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Qb3 dxc4 Qxc4 # 3
+d4 Nf6 c4 g6 Nc3 d5 Bf4 Bg7 # 1
+d4 Nf6 c4 g6 Nc3 d5 Bf4 Bg7 e3 # 3
+d4 Nf6 c4 g6 Nc3 d6 g3 # 3
+d4 Nf6 c4 g6 Nc3 d6 g3 Bg7 # 1
+d4 Nf6 c4 g6 Nc3 d6 g3 Bg7 Bg2 # 3
+d4 Nf6 c4 g6 Nf3 Bg7 # 3
+d4 Nf6 c4 g6 Nf3 Bg7 g3 # 3
+d4 Nf6 c4 g6 Nf3 Bg7 Nc3 # 1
+d4 Nf6 c4 g6 Nf3 Bg7 g3 O-O # 3
+d4 Nf6 c4 g6 Nf3 Bg7 g3 O-O Bg2 # 3
+d4 Nf6 c4 g6 Nf3 Bg7 Nc3 O-O # 1
+d4 Nf6 c4 g6 Nf3 Bg7 Nc3 O-O e4 # 3
+d4 Nf6 c4 g6 g3 c6 # 1
+d4 Nf6 c4 g6 g3 c5 # 1
+d4 Nf6 c4 g6 g3 Bg7 # 1
+d4 Nf6 c4 g6 g3 c6 Nf3 # 3
+d4 Nf6 c4 g6 g3 c6 Bg2 # 3
+d4 Nf6 c4 g6 g3 c6 Nf3 Bg7 # 1
+d4 Nf6 c4 g6 g3 c6 Nf3 Bg7 Bg2 # 3
+d4 Nf6 c4 g6 g3 c6 Bg2 d5 # 1
+d4 Nf6 c4 g6 g3 c6 Bg2 d5 cxd5 # 3
+d4 Nf6 c4 g6 g3 c6 Bg2 d5 Nf3 # 2
+d4 Nf6 c4 g6 g3 c5 Nf3 # 3
+d4 Nf6 c4 g6 g3 c5 d5 # 3
+d4 Nf6 c4 g6 g3 c5 Nf3 cxd4 # 1
+d4 Nf6 c4 g6 g3 c5 Nf3 cxd4 Nxd4 # 3
+d4 Nf6 c4 g6 g3 c5 d5 b5 # 1
+d4 Nf6 c4 g6 g3 c5 d5 b5 cxb5 # 3
+d4 Nf6 c4 g6 g3 Bg7 Bg2 # 3
+d4 Nf6 c4 g6 g3 Bg7 Bg2 c5 # 1
+d4 Nf6 c4 g6 g3 Bg7 Bg2 O-O # 1
+d4 Nf6 c4 g6 g3 Bg7 Bg2 d5 # 1
+d4 Nf6 c4 g6 g3 Bg7 Bg2 d6 # 1
+d4 Nf6 c4 g6 g3 Bg7 Bg2 c5 Nf3 # 3
+d4 Nf6 c4 g6 g3 Bg7 Bg2 O-O Nc3 # 3
+d4 Nf6 c4 g6 g3 Bg7 Bg2 O-O Nf3 # 1
+d4 Nf6 c4 g6 g3 Bg7 Bg2 d5 cxd5 # 3
+d4 Nf6 c4 g6 g3 Bg7 Bg2 d5 Nf3 # 3
+d4 Nf6 c4 g6 g3 Bg7 Bg2 d6 Nc3 # 3
+d4 Nf6 c4 e6 Nc3 # 1
+d4 Nf6 c4 e6 Nf3 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 # 3
+d4 Nf6 c4 e6 Nc3 d5 # 1
+d4 Nf6 c4 e6 Nc3 Bb4 Qc2 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 # 2
+d4 Nf6 c4 e6 Nc3 Bb4 e3 # 1
+d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O a3 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 c5 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O # 2
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 b6 # 1
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 c5 e3 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 c5 g3 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O Bg5 # 1
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O Bg5 d6 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O Bg5 c5 # 3
+d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O # 3
+d4 Nf6 c4 e6 Nc3 Bb4 e3 c5 # 3
+d4 Nf6 c4 e6 Nc3 d5 Nf3 # 2
+d4 Nf6 c4 e6 Nc3 d5 cxd5 # 3
+d4 Nf6 c4 e6 Nc3 d5 Nf3 Be7 # 1
+d4 Nf6 c4 e6 Nc3 d5 Nf3 Be7 Bg5 # 3
+d4 Nf6 c4 e6 Nc3 d5 Nf3 Be7 Bg5 O-O # 1
+d4 Nf6 c4 e6 Nc3 d5 Nf3 Be7 Bg5 O-O e3 # 3
+d4 Nf6 c4 e6 Nc3 d5 cxd5 exd5 # 3
+d4 Nf6 c4 e6 Nc3 d5 cxd5 exd5 Bg5 # 3
+d4 Nf6 c4 e6 Nc3 d5 cxd5 exd5 Bg5 c6 # 3
+d4 Nf6 c4 e6 Nc3 d5 cxd5 exd5 Bg5 Be7 # 3
+d4 Nf6 c4 e6 Nf3 b6 # 3
+d4 Nf6 c4 e6 Nf3 d5 # 2
+d4 Nf6 c4 e6 Nf3 Bb4 # 1
+d4 Nf6 c4 e6 Nf3 c5 # 1
+d4 Nf6 c4 e6 Nf3 b5 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 # 3
+d4 Nf6 c4 e6 Nf3 b6 Nc3 # 1
+d4 Nf6 c4 e6 Nf3 b6 e3 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 # 2
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Nbd2 # 2
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Bd2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Nbd2 Bb7 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Nbd2 Bb7 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Bd2 Be7 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Bd2 a5 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Bd2 Be7 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Bd2 Be7 Nc3 # 2
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb4 Bd2 a5 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Be7 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 c5 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Bb4 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Be7 Nc3 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Be7 O-O # 2
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 c5 d5 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Bb4 Bd2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Nbd2 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qa4 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qb3 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Nbd2 Bb7 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb7 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 b5 # 1
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4 Bd2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4 Bd2 Be7 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb7 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 b5 cxb5 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qa4 Bb7 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qb3 d5 # 3
+d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qb3 c6 # 3
+d4 Nf6 c4 e6 Nf3 b6 Nc3 Bb7 # 3
+d4 Nf6 c4 e6 Nf3 b6 Nc3 Bb4 # 3
+d4 Nf6 c4 e6 Nf3 b6 Nc3 Bb7 Bg5 # 3
+d4 Nf6 c4 e6 Nf3 b6 Nc3 Bb7 a3 # 3
+d4 Nf6 c4 e6 Nf3 b6 Nc3 Bb4 Bg5 # 3
+d4 Nf6 c4 e6 Nf3 b6 e3 Bb7 # 3
+d4 Nf6 c4 e6 Nf3 b6 e3 Bb7 Bd3 # 3
+d4 Nf6 c4 e6 Nf3 b6 e3 Bb7 Bd3 Be7 # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 # 2
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 # 1
+d4 Nf6 c4 e6 Nf3 d5 Nc3 dxc4 # 1
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 Bg5 # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 Bf4 # 2
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 cxd5 # 1
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 Bg5 h6 # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 Bg5 O-O # 1
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 Bf4 O-O # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Be7 cxd5 exd5 # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 e3 # 3
+d4 Nf6 c4 e6 Nf3 d5 Nc3 dxc4 Qa4 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 Be7 # 1
+d4 Nf6 c4 e6 Nf3 d5 g3 dxc4 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 Bb4 # 1
+d4 Nf6 c4 e6 Nf3 d5 g3 Be7 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 dxc4 Bg2 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 dxc4 Bg2 b5 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 dxc4 Bg2 Bd7 # 3
+d4 Nf6 c4 e6 Nf3 d5 g3 Bb4 Bd2 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Nbd2 # 2
+d4 Nf6 c4 e6 Nf3 Bb4 Bd2 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Nbd2 b6 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Nbd2 b6 a3 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Bd2 Bxd2 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Bd2 a5 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Bd2 Bxd2 Qxd2 # 3
+d4 Nf6 c4 e6 Nf3 Bb4 Bd2 a5 g3 # 3
+d4 Nf6 c4 e6 Nf3 c5 d5 # 3
+d4 Nf6 c4 e6 Nf3 c5 e3 # 2
+d4 Nf6 c4 e6 Nf3 c5 d5 exd5 # 1
+d4 Nf6 c4 e6 Nf3 c5 d5 b5 # 1
+d4 Nf6 c4 e6 Nf3 c5 d5 d6 # 1
+d4 Nf6 c4 e6 Nf3 c5 d5 exd5 cxd5 # 3
+d4 Nf6 c4 e6 Nf3 c5 d5 b5 dxe6 # 3
+d4 Nf6 c4 e6 Nf3 c5 d5 d6 Nc3 # 3
+d4 Nf6 c4 e6 Nf3 c5 e3 b6 # 3
+d4 Nf6 c4 e6 Nf3 c5 e3 b6 Nc3 # 1
+d4 Nf6 c4 e6 Nf3 c5 e3 b6 Nc3 cxd4 # 3
+d4 Nf6 c4 e6 Nf3 b5 g3 # 3
+d4 Nf6 c4 e6 Nf3 b5 g3 Bb7 # 1
+d4 Nf6 c4 e6 Nf3 b5 g3 Bb7 Bg2 # 3
+d4 Nf6 c4 d6 Nc3 # 3
+d4 Nf6 c4 d6 Nf3 # 2
+d4 Nf6 c4 d6 Nc3 Nbd7 # 1
+d4 Nf6 c4 d6 Nc3 g6 # 1
+d4 Nf6 c4 d6 Nc3 Bf5 # 1
+d4 Nf6 c4 d6 Nc3 Nbd7 e4 # 3
+d4 Nf6 c4 d6 Nc3 g6 Nf3 # 3
+d4 Nf6 c4 d6 Nc3 Bf5 f3 # 3
+d4 Nf6 c4 d6 Nf3 Bg4 # 1
+d4 Nf6 c4 d6 Nf3 g6 # 1
+d4 Nf6 c4 d6 Nf3 Bg4 e3 # 3
+d4 Nf6 c4 d6 Nf3 g6 g3 # 3
+d4 Nf6 c4 c5 Nf3 # 2
+d4 Nf6 c4 c5 d5 # 3
+d4 Nf6 c4 c5 Nf3 cxd4 # 1
+d4 Nf6 c4 c5 Nf3 e6 # 1
+d4 Nf6 c4 c5 Nf3 g6 # 1
+d4 Nf6 c4 c5 Nf3 cxd4 Nxd4 # 3
+d4 Nf6 c4 c5 Nf3 e6 g3 # 3
+d4 Nf6 c4 c5 Nf3 g6 Nc3 # 3
+d4 Nf6 c4 c5 d5 b5 # 1
+d4 Nf6 c4 c5 d5 e6 # 1
+d4 Nf6 c4 c5 d5 e5 # 1
+d4 Nf6 c4 c5 d5 d6 # 1
+d4 Nf6 c4 c5 d5 b5 cxb5 # 3
+d4 Nf6 c4 c5 d5 e6 Nc3 # 3
+d4 Nf6 c4 c5 d5 e5 Nc3 # 3
+d4 Nf6 c4 c5 d5 d6 Nc3 # 3
+d4 Nf6 Nf3 d5 # 1
+d4 Nf6 Nf3 e6 # 3
+d4 Nf6 Nf3 c5 # 1
+d4 Nf6 Nf3 d5 c4 # 3
+d4 Nf6 Nf3 d5 c4 e6 # 2
+d4 Nf6 Nf3 d5 c4 dxc4 # 3
+d4 Nf6 Nf3 d5 c4 e6 Nc3 # 3
+d4 Nf6 Nf3 d5 c4 e6 g3 # 3
+d4 Nf6 Nf3 d5 c4 dxc4 Qa4 # 1
+d4 Nf6 Nf3 d5 c4 dxc4 Nc3 # 1
+d4 Nf6 Nf3 e6 c4 # 3
+d4 Nf6 Nf3 e6 Bg5 # 1
+d4 Nf6 Nf3 e6 g3 # 1
+d4 Nf6 Nf3 e6 c4 Bb4 # 1
+d4 Nf6 Nf3 e6 c4 d5 # 2
+d4 Nf6 Nf3 e6 c4 b6 # 3
+d4 Nf6 Nf3 e6 c4 c5 # 1
+d4 Nf6 Nf3 e6 c4 Bb4 Nc3 # 3
+d4 Nf6 Nf3 e6 c4 Bb4 Nbd2 # 3
+d4 Nf6 Nf3 e6 c4 Bb4 Nc3 c5 # 1
+d4 Nf6 Nf3 e6 c4 Bb4 Nc3 c5 g3 # 3
+d4 Nf6 Nf3 e6 c4 Bb4 Nbd2 b6 # 3
+d4 Nf6 Nf3 e6 c4 Bb4 Nbd2 b6 a3 # 3
+d4 Nf6 Nf3 e6 c4 d5 Nc3 # 3
+d4 Nf6 Nf3 e6 c4 d5 g3 # 1
+d4 Nf6 Nf3 e6 c4 d5 Nc3 Be7 # 3
+d4 Nf6 Nf3 e6 c4 d5 Nc3 Nbd7 # 1
+d4 Nf6 Nf3 e6 c4 d5 Nc3 Be7 Bg5 # 3
+d4 Nf6 Nf3 e6 c4 d5 Nc3 Be7 Bg5 h6 # 3
+d4 Nf6 Nf3 e6 c4 d5 Nc3 Nbd7 cxd5 # 3
+d4 Nf6 Nf3 e6 c4 d5 g3 Bb4 # 3
+d4 Nf6 Nf3 e6 c4 d5 g3 Bb4 Bd2 # 1
+d4 Nf6 Nf3 e6 c4 d5 g3 Bb4 Bd2 Be7 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 # 3
+d4 Nf6 Nf3 e6 c4 b6 a3 # 2
+d4 Nf6 Nf3 e6 c4 b6 e3 # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Be7 # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 b3 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 Nbd2 # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 b3 Bb4 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 b3 Bb4 Bd2 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 b3 Bb4 Bd2 Be7 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Ba6 Nbd2 Bb7 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 c5 # 2
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 Be7 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 c5 O-O # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 c5 O-O Be7 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 Be7 Nc3 # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 Be7 O-O # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 Be7 Nc3 Ne4 # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Bb7 Bg2 Be7 O-O O-O # 3
+d4 Nf6 Nf3 e6 c4 b6 g3 Be7 Bg2 # 1
+d4 Nf6 Nf3 e6 c4 b6 g3 Be7 Bg2 Bb7 # 3
+d4 Nf6 Nf3 e6 c4 b6 a3 Bb7 # 3
+d4 Nf6 Nf3 e6 c4 b6 a3 Bb7 Nc3 # 3
+d4 Nf6 Nf3 e6 c4 b6 a3 Bb7 Nc3 d5 # 3
+d4 Nf6 Nf3 e6 c4 b6 a3 Bb7 Nc3 d5 Bg5 # 3
+d4 Nf6 Nf3 e6 c4 b6 e3 Bb7 # 3
+d4 Nf6 Nf3 e6 c4 b6 e3 Bb7 Nc3 # 1
+d4 Nf6 Nf3 e6 c4 b6 e3 Bb7 Nc3 Be7 # 3
+d4 Nf6 Nf3 e6 c4 c5 e3 # 3
+d4 Nf6 Nf3 e6 c4 c5 d5 # 3
+d4 Nf6 Nf3 e6 c4 c5 e3 d5 # 1
+d4 Nf6 Nf3 e6 c4 c5 e3 d5 Nc3 # 3
+d4 Nf6 Nf3 e6 c4 c5 d5 d6 # 1
+d4 Nf6 Nf3 e6 c4 c5 d5 d6 Nc3 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 # 3
+d4 Nf6 Nf3 e6 Bg5 h6 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 c3 # 1
+d4 Nf6 Nf3 e6 Bg5 c5 e3 # 1
+d4 Nf6 Nf3 e6 Bg5 c5 c3 cxd4 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 c3 Qb6 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 e3 Qb6 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 e3 b6 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 e3 Be7 # 3
+d4 Nf6 Nf3 e6 Bg5 c5 e3 Qb6 Nbd2 # 1
+d4 Nf6 Nf3 e6 Bg5 c5 e3 b6 d5 # 1
+d4 Nf6 Nf3 e6 Bg5 c5 e3 Be7 dxc5 # 1
+d4 Nf6 Nf3 e6 Bg5 h6 Bxf6 # 1
+d4 Nf6 Nf3 e6 Bg5 h6 Bh4 # 1
+d4 Nf6 Nf3 e6 Bg5 h6 Bxf6 Qxf6 # 3
+d4 Nf6 Nf3 e6 Bg5 h6 Bh4 b6 # 3
+d4 Nf6 Nf3 e6 g3 b6 # 3
+d4 Nf6 Nf3 e6 g3 b5 # 2
+d4 Nf6 Nf3 e6 g3 b6 Bg2 # 1
+d4 Nf6 Nf3 e6 g3 b6 c4 # 1
+d4 Nf6 Nf3 e6 g3 b6 Bg2 Bb7 # 3
+d4 Nf6 Nf3 e6 g3 b6 c4 Bb7 # 3
+d4 Nf6 Nf3 e6 g3 b5 Bg2 # 1
+d4 Nf6 Nf3 e6 g3 b5 Bg2 Bb7 # 3
+d4 Nf6 Nf3 c5 c4 # 2
+d4 Nf6 Nf3 c5 d5 # 3
+d4 Nf6 Nf3 c5 c4 cxd4 # 3
+d4 Nf6 Nf3 c5 c4 cxd4 Nxd4 # 3
+d4 Nf6 Nf3 c5 c4 cxd4 Nxd4 Nc6 # 3
+d4 Nf6 Nf3 c5 d5 e6 # 1
+d4 Nf6 Nf3 c5 d5 b5 # 3
+d4 Nf6 Nf3 c5 d5 e6 Nc3 # 3
+d4 Nf6 Nf3 c5 d5 e6 Nc3 exd5 # 1
+d4 Nf6 Nf3 c5 d5 e6 Nc3 Nxd5 # 1
+d4 Nf6 Nf3 c5 d5 e6 Nc3 exd5 Nxd5 # 3
+d4 Nf6 Nf3 c5 d5 e6 Nc3 Nxd5 Nxd5 # 3
+d4 Nf6 Nf3 c5 d5 b5 c4 # 1
+d4 Nf6 Nf3 c5 d5 b5 c4 Bb7 # 3
+d4 Nf6 Nf3 c5 d5 b5 c4 Bb7 b3 # 1
+d4 Nf6 Nf3 c5 d5 b5 c4 Bb7 b3 e6 # 3
+d4 Nf6 Bg5 e6 # 3
+d4 Nf6 Bg5 e6 e4 # 1
+d4 Nf6 Bg5 e6 c3 # 1
+d4 Nf6 Bg5 e6 e4 h6 # 3
+d4 Nf6 Bg5 e6 e4 h6 Bxf6 # 1
+d4 Nf6 Bg5 e6 e4 h6 Bxf6 Qxf6 # 3
+d4 Nf6 Bg5 e6 c3 b6 # 3
+d4 Nf6 Bg5 e6 c3 b6 e4 # 1
+d4 Nf6 Bg5 e6 c3 b6 e4 h6 # 3
+d4 d5 c4 # 3
+d4 d5 c4 e6 # 3
+d4 d5 c4 dxc4 # 2
+d4 d5 c4 e6 Nc3 # 3
+d4 d5 c4 e6 Nc3 Be7 # 3
+d4 d5 c4 e6 Nc3 Nf6 # 2
+d4 d5 c4 e6 Nc3 Be7 Nf3 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 # 3
+d4 d5 c4 e6 Nc3 Be7 Nf3 Nf6 # 3
+d4 d5 c4 e6 Nc3 Be7 Nf3 Nf6 Bg5 # 3
+d4 d5 c4 e6 Nc3 Be7 Nf3 Nf6 Bg5 h6 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 exd5 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 exd5 Bf4 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 exd5 Bf4 Nf6 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 exd5 Bf4 c6 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 exd5 Bf4 Nf6 Qc2 # 3
+d4 d5 c4 e6 Nc3 Be7 cxd5 exd5 Bf4 c6 Qc2 # 3
+d4 d5 c4 e6 Nc3 Nf6 Bg5 # 3
+d4 d5 c4 e6 Nc3 Nf6 cxd5 # 3
+d4 d5 c4 e6 Nc3 Nf6 Nf3 # 2
+d4 d5 c4 e6 Nc3 Nf6 e3 # 2
+d4 d5 c4 e6 Nc3 Nf6 Bg5 Be7 # 3
+d4 d5 c4 e6 Nc3 Nf6 Bg5 Be7 e3 # 3
+d4 d5 c4 e6 Nc3 Nf6 Bg5 Be7 e3 O-O # 1
+d4 d5 c4 e6 Nc3 Nf6 Bg5 Be7 e3 O-O Nf3 # 3
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 # 1
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 # 3
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Be7 # 1
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Bb4 # 1
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 # 1
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Be7 e3 # 3
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Bb4 Qc2 # 3
+d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Bb4 e3 # 3
+d4 d5 c4 e6 Nc3 Nf6 Nf3 Bb4 # 1
+d4 d5 c4 e6 Nc3 Nf6 Nf3 Be7 # 3
+d4 d5 c4 e6 Nc3 Nf6 Nf3 Be7 Bf4 # 1
+d4 d5 c4 e6 Nc3 Nf6 Nf3 Be7 cxd5 # 1
+d4 d5 c4 e6 Nc3 Nf6 Nf3 Be7 Bf4 O-O # 3
+d4 d5 c4 e6 Nc3 Nf6 Nf3 Be7 cxd5 exd5 # 3
+d4 d5 c4 e6 Nc3 Nf6 e3 c6 # 1
+d4 d5 c4 e6 Nc3 Nf6 e3 c6 Nf3 # 3
+d4 d5 c4 dxc4 e4 # 3
+d4 d5 c4 dxc4 e4 Nf6 # 3
+d4 d5 c4 dxc4 e4 Nf6 e5 # 3
+d4 d5 c4 dxc4 e4 Nf6 e5 Nd5 # 3
+d4 g6 c4 # 3
+d4 g6 e4 # 3
+d4 g6 c4 Bg7 # 1
+d4 g6 c4 Bg7 Nc3 # 3
+d4 g6 e4 Bg7 # 1
+d4 g6 e4 Bg7 Nf3 # 3
+d4 g6 e4 Bg7 Nf3 d6 # 1
+d4 g6 e4 Bg7 Nf3 d6 Be2 # 3
+d4 c5 d5 # 3
+d4 c5 d5 Nf6 # 1
+d4 c5 d5 Nf6 Nc3 # 3
+d4 c5 d5 Nf6 Nc3 d6 # 1
+d4 c5 d5 Nf6 Nc3 d6 e4 # 3
+#
